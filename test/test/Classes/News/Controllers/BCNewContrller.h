@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BCNewContrller.h
 //  test
 //
 //  Created by zgy_smile on 16/5/7.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BCNewContrller : UICollectionViewController
 
 @end
-
